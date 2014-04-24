@@ -1,0 +1,1 @@
+This sketch drives a couple of purpose-built shields with the goal of adding automatic mode detection and sync to an arcade CRT, so that MAME can be pixel-perfect without tedious mucking about with potentiometers every time.
